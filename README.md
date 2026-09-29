@@ -2,7 +2,7 @@
 
 **Software Engineering · AI & Automation · Product & Business Analysis**
 
-I connect business needs with technical solutions through backend development, AI applications, and requirements gathering.
+I bring a software engineering foundation and a product mindset to building solutions that meet user and business needs.
 
 🎓 MS in Computer Software Engineering, Arizona State University  
 📍 San Francisco, CA
