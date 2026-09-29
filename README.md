@@ -17,6 +17,6 @@ I bring a software engineering foundation and a product mindset to building solu
 
 Previously developed healthcare APIs at **Appzera** and an AI research assistant at **Glass Jar Interactive**. Former **Co-President of ASU’s Product Management Club** and **Top 25 Finalist at Cisco Thinqubator**.
 
-Interested in software engineering, AI, technical business analysis, and product opportunities.
+Eager to contribute across software development, product strategy, and business analysis.
 
 [LinkedIn](https://www.linkedin.com/in/monisha-murthy/) · [Email](mailto:krishnamurthy.monisha@outlook.com)
