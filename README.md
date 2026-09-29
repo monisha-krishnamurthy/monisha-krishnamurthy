@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Monisha Krishnamurthy
 
-<!--
-**monisha-krishnamurthy/monisha-krishnamurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering · AI & Automation · Product & Business Analysis**
 
-Here are some ideas to get you started:
+I connect business needs with technical solutions through backend development, AI applications, and requirements gathering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MS in Computer Software Engineering, Arizona State University  
+📍 San Francisco, CA
+
+## Skills
+
+- **Backend & Frameworks:** Python, Java, SQL, Spring Boot, FastAPI, REST APIs
+- **AI & Cloud:** AI agents, RAG, OpenAI API, ChromaDB, AWS, Docker
+- **Product & Business:** Requirements gathering, stakeholder collaboration, user stories, workflow documentation, Agile/Scrum
+
+## Background
+
+Previously developed healthcare APIs at **Appzera** and an AI research assistant at **Glass Jar Interactive**. Former **Co-President of ASU’s Product Management Club** and **Top 25 Finalist at Cisco Thinqubator**.
+
+Interested in software engineering, AI, technical business analysis, and product opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/monisha-murthy/) · [Email](mailto:krishnamurthy.monisha@outlook.com)
