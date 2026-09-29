@@ -15,7 +15,7 @@ I bring a software engineering foundation and a product mindset to building solu
 
 ## Background
 
-Previously developed healthcare APIs at **Appzera** and an AI research assistant at **Glass Jar Interactive**. Former **Co-President of ASU’s Product Management Club** and **Top 25 Finalist at Cisco Thinqubator**.
+Previously developed healthcare APIs at **Appzera**. Former **Co-President of ASU’s Product Management Club** and **Top 25 Finalist at Cisco Thinqubator**.
 
 Eager to contribute across software development, product strategy, and business analysis.
 
