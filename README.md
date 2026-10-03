@@ -19,4 +19,11 @@ Previously developed healthcare APIs at **Appzera**. Former **Co-President of AS
 
 Eager to contribute across software development, product strategy, and business analysis.
 
+## Selected Work
+
+- [Tool Dependency Graph](https://github.com/monisha-krishnamurthy/composio-tool-dependency-graph) — Interactive visualization of potential dependencies between AI tools.
+- [Portfolio Chatbot](https://github.com/monisha-krishnamurthy/portfolio-chatbot) — Conversational portfolio built with Python, Streamlit, and OpenAI.
+- [Stock Analyser](https://github.com/monisha-krishnamurthy/StockAnalyser) — Dashboard combining stock metrics, price charts, and AI commentary.
+- [Mint](https://github.com/monisha-krishnamurthy/mint) — Team-built programming language interpreter using Java and ANTLR.
+
 [LinkedIn](https://www.linkedin.com/in/monisha-murthy/) · [Email](mailto:krishnamurthy.monisha@outlook.com)
