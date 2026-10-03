@@ -10,6 +10,8 @@ MS in Computer Software Engineering, Arizona State University · San Francisco, 
 
 ## Selected projects
 
+- **[Edge & Serverless Face Recognition](https://github.com/monisha-krishnamurthy/edge-serverless-face-recognition)** — Face detection with AWS IoT Greengrass and recognition with Lambda, SQS, and PyTorch.
+- **[EC2 Face Recognition](https://github.com/monisha-krishnamurthy/ec2-face-recognition)** — Flask, S3, and SQS pipeline with queue-based EC2 worker scaling.
 - **[Adaptive Tutor Capstone](https://github.com/monisha-krishnamurthy/adaptive-tutor-capstone)** — Team contributions to educational image retrieval, ingestion pipelines, and LLM integration.
 - **[Tool Dependency Graph](https://github.com/monisha-krishnamurthy/composio-tool-dependency-graph)** — Interactive map of potential dependencies between AI tools. [Demo](https://www.monishakrishnamurthy.com/composio-tool-dependency-graph/graph.html)
 - **[Portfolio Chatbot](https://github.com/monisha-krishnamurthy/portfolio-chatbot)** — Conversational portfolio using Python, Streamlit, OpenAI, and SQLite. [Demo](https://monisha-portfolio-chatbot.streamlit.app/)
