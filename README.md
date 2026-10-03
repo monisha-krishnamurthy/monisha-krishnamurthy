@@ -24,8 +24,5 @@ MS in Computer Software Engineering, Arizona State University · San Francisco, 
 - **AI & Cloud:** AI agents, RAG, OpenAI API, ChromaDB, AWS, Docker
 - **Product & Business:** Requirements gathering, stakeholder collaboration, user stories, workflow documentation, Agile/Scrum
 
-## Background
-
-Healthcare API development at **Appzera** · Former **Co-President, ASU Product Management Club** · **Top 25 Finalist, Cisco Thinqubator**
 
 Interested in opportunities that combine technical expertise, product thinking, and business problem-solving.
