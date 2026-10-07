@@ -1,28 +1,109 @@
+<div align="center">
+
 # Monisha Krishnamurthy
 
-**Software Engineering · AI · Product & Business Analysis**
+**SOFTWARE ENGINEERING · AI & CLOUD · PRODUCT & BUSINESS ANALYSIS**
 
-I bring a software engineering foundation and a product mindset to building solutions that meet user and business needs.
+I build software with a focus on practical problems, clear requirements, and thoughtful design.
 
-MS in Computer Software Engineering, Arizona State University · San Francisco, CA
+<p>
+  <a href="https://www.monishakrishnamurthy.com/"><img src="https://img.shields.io/badge/PORTFOLIO-93c5fd?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/monisha-murthy/"><img src="https://img.shields.io/badge/LINKEDIN-93c5fd?style=for-the-badge&logo=linkedin&logoColor=111827" alt="LinkedIn"></a>
+  <a href="mailto:krishnamurthy.monisha@outlook.com"><img src="https://img.shields.io/badge/EMAIL-e5e7eb?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email"></a>
+</p>
 
-[Portfolio](https://www.monishakrishnamurthy.com/) · [LinkedIn](https://www.linkedin.com/in/monisha-murthy/) · [Email](mailto:krishnamurthy.monisha@outlook.com)
+</div>
 
-## Selected projects
+---
 
-- **[Edge & Serverless Face Recognition](https://github.com/monisha-krishnamurthy/edge-serverless-face-recognition)** — Face detection with AWS IoT Greengrass and recognition with Lambda, SQS, and PyTorch.
-- **[EC2 Face Recognition](https://github.com/monisha-krishnamurthy/ec2-face-recognition)** — Flask, S3, and SQS pipeline with queue-based EC2 worker scaling.
-- **[Adaptive Tutor Capstone](https://github.com/monisha-krishnamurthy/adaptive-tutor-capstone)** — Team contributions to educational image retrieval, ingestion pipelines, and LLM integration.
-- **[Tool Dependency Graph](https://github.com/monisha-krishnamurthy/composio-tool-dependency-graph)** — Interactive map of potential dependencies between AI tools. [Demo](https://www.monishakrishnamurthy.com/composio-tool-dependency-graph/graph.html)
-- **[Portfolio Chatbot](https://github.com/monisha-krishnamurthy/portfolio-chatbot)** — Conversational portfolio using Python, Streamlit, OpenAI, and SQLite. [Demo](https://monisha-portfolio-chatbot.streamlit.app/)
-- **[Stock Analyser](https://github.com/monisha-krishnamurthy/StockAnalyser)** — Stock metrics, price charts, and AI-generated commentary. [Demo](https://aistockanalyser.streamlit.app/)
-- **[Mint](https://github.com/monisha-krishnamurthy/mint)** — Team-built programming language interpreter using Java and ANTLR.
+### A little about me
 
-## Skills
+- **MS in Computer Software Engineering**, Arizona State University.
+- Building across **Python, Java, AI applications, and AWS coursework projects**.
+- Interested in **software engineering, product, and technical business analysis**.
+- Former **Co-President of ASU's Product Management Club** and **Top 25 finalist at Cisco Thinqubator**.
+- I enjoy connecting user needs with technical decisions—and understanding why a solution works.
 
-- **Engineering:** Python, Java, SQL, Spring Boot, FastAPI, REST APIs
-- **AI & Cloud:** AI agents, RAG, OpenAI API, ChromaDB, AWS, Docker
-- **Product & Business:** Requirements gathering, stakeholder collaboration, user stories, workflow documentation, Agile/Scrum
+---
 
+### Selected work
 
-Interested in opportunities that combine technical expertise, product thinking, and business problem-solving.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 · Edge & Serverless Face Recognition
+
+Greengrass face detection and Lambda recognition connected through SQS. Local evaluation matched all 100 supplied course test labels.
+
+**Python · AWS IoT Greengrass · Lambda · PyTorch**
+
+[Explore repository ↗](https://github.com/monisha-krishnamurthy/edge-serverless-face-recognition)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 · EC2 Face Recognition
+
+Flask uploads, S3 storage, SQS messaging, and queue-based EC2 worker scaling. Includes automated tests with mocked AWS clients.
+
+**Python · Flask · EC2 · S3 · SQS**
+
+[Explore repository ↗](https://github.com/monisha-krishnamurthy/ec2-face-recognition)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 · Adaptive Tutor Capstone
+
+Team contributions to educational image retrieval, ingestion pipelines, and LLM services for an adaptive tutoring application.
+
+**Python · ChromaDB · OpenCLIP · LLM Integration**
+
+[Explore repository ↗](https://github.com/monisha-krishnamurthy/adaptive-tutor-capstone)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 · Mint Programming Language
+
+A team-built interpreter supporting typed expressions, conditionals, loops, and control flow, with example programs.
+
+**Java · ANTLR · Language Design**
+
+[Explore repository ↗](https://github.com/monisha-krishnamurthy/mint)
+
+</td>
+</tr>
+</table>
+
+### More to explore
+
+- **[Tool Dependency Graph](https://github.com/monisha-krishnamurthy/composio-tool-dependency-graph)** — Interactive exploration of potential dependencies between AI tools. [Live demo ↗](https://www.monishakrishnamurthy.com/composio-tool-dependency-graph/graph.html)
+- **[Portfolio Chatbot](https://github.com/monisha-krishnamurthy/portfolio-chatbot)** — A conversational portfolio using Streamlit, OpenAI, and SQLite. [Live demo ↗](https://monisha-portfolio-chatbot.streamlit.app/)
+- **[Stock Analyser](https://github.com/monisha-krishnamurthy/StockAnalyser)** — Historical prices, technical indicators, and AI-generated commentary. [Live demo ↗](https://aistockanalyser.streamlit.app/)
+- **[Scrum Simulator](https://github.com/monisha-krishnamurthy/scrum-simulator)** — A team-built Java Swing prototype for Scrum roles and sprint workflows.
+
+---
+
+### Project toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=93c5fd" alt="Python">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=93c5fd" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=sqlite&logoColor=93c5fd" alt="SQL">
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logoColor=93c5fd" alt="AWS">
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=93c5fd" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=93c5fd" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=93c5fd" alt="Git">
+</p>
+
+**Product & business:** Requirements gathering · Stakeholder collaboration · User stories · Workflow documentation · Agile/Scrum
+
+---
+
+<div align="center">
+  <sub>UNDERSTAND THE PROBLEM · BUILD WITH INTENT · TEST THE RESULT</sub>
+</div>
